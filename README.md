@@ -1,2 +1,2 @@
-# erudio-microservices-kotlin
+# erudio-api-rest-springboot-kotlin
 API Rest com Spring Boot e Kotlin
